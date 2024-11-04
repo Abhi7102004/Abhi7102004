@@ -1,7 +1,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav-341245258/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhi_y_07/)
-#💻 Tech Stack:
+# 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,5 +33,4 @@
 
 ## 📊 Most Used Languages and Profile Views
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi7102004&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9)](https://github.com/Abhi7102004)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhi7102004&style=flat-square&color=blue)
