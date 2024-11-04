@@ -35,4 +35,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhi7102004&color=brightgreen)
+## 📊 Most Used Languages and Profile Views
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi7102004&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9)](https://github.com/Abhi7102004)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhi7102004&style=flat-square&color=blue)
